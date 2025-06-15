@@ -10,8 +10,8 @@ This mini project contains SQL queries analyzing employee and department data.
 - Departments with no employees
 
 ## 📁 Files:
-- `employee_analytics.sql` – All SQL queries
-- `high_earning_employees.csv` – Sample output from query
+- `employee_analytics.sql` – All SQL queries For Table Creation
+- `high_earning_employees.csv` – Sample output from a query
 
 
 ## Codes 
